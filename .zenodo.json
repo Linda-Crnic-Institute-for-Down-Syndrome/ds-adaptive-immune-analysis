@@ -1,0 +1,41 @@
+
+{
+  "title": "Multimodal Analysis of Adaptive Immune Features in Down Syndrome",
+  "description": "Code and data-processing workflows supporting the manuscript: “Progressive deterioration of adaptive immune repertoires in Down syndrome linked to interferon hyperactivity and lymphoid tissue disorganization”",
+  "creators": [
+    {
+      "name": "Galbraith, Matthew D.",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": "0000-0003-0485-3927"
+    },
+    {
+      "name": "Donovan, Micah G.",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": ""
+    },
+    {
+      "name": "Paul Eduthan, Neetha",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": ""
+    },
+    {
+      "name": "Eric, Hoffmeyer",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": ""
+    },
+    {
+      "name": "Espinosa, Joaquin M.",
+      "affiliation": "Linda Crnic Institute for Down Syndrome, University of Colorado Anschutz",
+      "orcid": "0000-0001-9048-1941"
+    }
+  ],
+  "keywords": ["R", "bioinformatics", "Down syndrome", "trisomy 21", "multiomics", "transcriptomics", "mass cytometry", "CyTOF", "BCR", "TCR", "AIRR", "Xenium", "proteomics", "tofacitinib"],
+  "license": "MIT",
+  "upload_type": "software",
+  "funding": [
+    {
+      "agency": "NIH",
+      "grant_number": "R01AI150305, UL1TR002535-02S1, R01HL155691, U24AG092191, P30CA046934"
+    }
+  ]
+}
