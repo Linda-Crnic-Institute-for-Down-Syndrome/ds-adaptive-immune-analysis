@@ -118,6 +118,6 @@ Progressive deterioration of adaptive immune repertoires in Down syndrome linked
 Authors, Journal, Year. DOI (UPDATE once available)
 
 **Code**  
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21817536](https://doi.org/10.5281/zenodo.21817536)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21817536.svg](https://doi.org/10.5281/zenodo.21817536)
 
 This project is licensed under the MIT License – see the LICENSE file for details.
