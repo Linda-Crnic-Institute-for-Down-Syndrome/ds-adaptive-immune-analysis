@@ -90,7 +90,7 @@ The renv.lock files within each analysis project directory contains a full list 
 ## R Environment Setup and Running Analyses
 1. Clone the repository.
    ```
-   git clone https://github.com/Linda-Crnic-Institute-for-Down-Syndrome/ds-conditions-multiomics.git
+   git clone https://github.com/Linda-Crnic-Institute-for-Down-Syndrome/ds-adaptive-immune-analysis.git
    ``` 
 2. Change to desired R Project directory and open R project via `.Rproj` file.
 3. Set up reproducible R environment (requires `renv` package to be installed).  
